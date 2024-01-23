@@ -41,6 +41,10 @@ Users can create tickets through the osTicket user portal or by sending an email
 <p>Staff Assignment:
 
 Tickets may be manually assigned to specific staff members or teams based on their expertise or workload.</p>
+
+<p>Categorization:
+
+Assign categories and tags to tickets to classify and prioritize them appropriately.</p>
 <br />
 
 <p>
