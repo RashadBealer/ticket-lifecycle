@@ -51,14 +51,45 @@ Assign categories and tags to tickets to classify and prioritize them appropriat
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Communication:
+
+Staff communicates with users through the osTicket interface, updating ticket notes and providing status updates.
 </p>
+Internal Notes:
+
+Staff can add internal notes for collaboration, visible only to other staff members.<p>
+  
+</p>
+
+<p>
+  Attachments and Media:
+
+Attach relevant files or media to the ticket for additional context or troubleshooting.</p>
+
+<p>
+  Escalation (Optional):
+
+Set up ticket rules to automatically escalate tickets based on criteria such as response time or ticket status.
+</p>
+
+<p>
+  Priority Adjustment:
+
+Adjust ticket priorities as needed, ensuring that urgent issues receive prompt attention.</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+User Confirmation:
+
+Communicate with the user to confirm whether the issue has been resolved to their satisfaction.
+
+</p>
+Closure:
+
+Once confirmed, mark the ticket as resolved and close it. Users may also close tickets from their end.<p>
+  
 </p>
 <br />
