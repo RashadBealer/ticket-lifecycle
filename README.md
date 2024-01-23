@@ -34,12 +34,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 User Submission:
+  
 Users can create tickets through the osTicket user portal or by sending an email to the designated support email address. Alternatively, staff members can manually create tickets.
 </p>
 <br>
 <p>Staff Assignment:
 
-Tickets may be manually assigned to specific staff members or teams based on their expertise or workload./p>
+Tickets may be manually assigned to specific staff members or teams based on their expertise or workload.</p>
 <br />
 
 <p>
